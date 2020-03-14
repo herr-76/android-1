@@ -697,6 +697,6 @@
 
 </manifest>
 <project path="kowalskykernel/hernanroms/grus" name="pengus77/kowalsky_grus" remote="github" revision="android-10.0.0_r31" />
-<project path="device/hernanroms/grus" name="user2/device_source" remote="github" revision="android-10.0.0_r31" />
+<project path="device/hernanroms/grus" name="faust93/android_device_xiaomi_grus-q" remote="github" revision="android-10.0.0_r31" />
 <project path="device/hernanroms/grus-common" name="user2/device-common_source" remote="github" revision="android-10.0.0_r31" />
 <project path="vendor/hernanroms" name="user2/vendor" remote="github" revision="android-10.0.0_r31" />
