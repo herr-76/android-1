@@ -696,3 +696,7 @@
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
 </manifest>
+<project path="kernel/your_company/your_device" name="user2/kernel_source" remote="github" revision="android-10.0.0_r31" />
+<project path="device/your_company/your_device" name="user2/device_source" remote="github" revision="android-10.0.0_r31" />
+<project path="device/your_company/your_device-common" name="user2/device-common_source" remote="github" revision="android-10.0.0_r31" />
+<project path="vendor/your_company" name="user2/vendor" remote="github" revision="android-10.0.0_r31" />
